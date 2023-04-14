@@ -779,7 +779,7 @@
         text-align: center !important;
     }
     .about-right .shape {
-        top: -10%;
+        top: -8%;
         left: 46.5%;
         transform: rotate(45deg);
     }
@@ -936,6 +936,9 @@
     .counter-text{
         transform: none;
     }
+    .team-icon ul li a {
+        line-height: 26px;
+    }
     .team-wrapper{
         display: block !important;
     }
@@ -981,7 +984,7 @@
         z-index: -1;
     }
     .footer-bottom{
-        bottom: -1100px;
+        bottom: -1125px;
     }
     .shape1{
         display: none;
